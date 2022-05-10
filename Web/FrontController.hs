@@ -8,8 +8,8 @@ import Web.View.Layout (defaultLayout)
 import Web.Controller.Static
 
 instance FrontController WebApplication where
-    controllers = 
-        [ startPage WelcomeAction
+    controllers =
+        [ startPage HomeAction
         -- Generator Marker
         ]
 
