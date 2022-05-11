@@ -1,0 +1,13 @@
+{
+  "name": "@ihpbp/scripts",
+  "version": "1.0.0",
+  "author": "Houzair Koussa",
+  "description": "CLI scripts for IHP Boiler Plate",
+  "scripts": {
+    "g:CustomScriptCommand": "node ./lib/CustomScript.js"
+  },
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "shelljs": "^0.8.5"
+  }
+}
