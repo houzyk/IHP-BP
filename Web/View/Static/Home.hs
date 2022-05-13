@@ -2,7 +2,7 @@ module Web.View.Static.Home where
 import Web.View.Prelude
 
 -- Components Imports
-import Web.View.Components.ExampleComponentFolder.ExampleComponent
+import Web.Components.ExampleComponentFolder.ExampleComponent
 
 data HomeView = HomeView
 
