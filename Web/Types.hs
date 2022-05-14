@@ -6,8 +6,9 @@ import Generated.Types
 
 data WebApplication = WebApplication deriving (Eq, Show)
 
-
 data StaticController = HomeAction deriving (Eq, Show, Data)
+
+data NoModelsController = NoModelAction deriving (Eq, Show, Data)
 
 data ExamplesController
     = ExamplesAction
