@@ -1,4 +1,4 @@
-module Web.Components.ExampleComponentFolder'.ExampleComponent' (exampleComponent', Html) where
+module Web.View.Components.ExampleComponentFolder'.ExampleComponent' (exampleComponent', Html) where
 
 import IHP.ViewPrelude
 
