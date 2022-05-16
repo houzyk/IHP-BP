@@ -20,4 +20,3 @@ Config/client_session_key.aes
 .vscode
 IHP
 package-lock.json
-static/app.css
